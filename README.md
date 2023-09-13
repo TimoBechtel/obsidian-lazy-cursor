@@ -1,5 +1,7 @@
 # Lazy Cursor - Obsidian Plugin
 
+## About
+
 This is a tiny plugin for [Obsidian](https://obsidian.md) that initially hides the cursor when opening a note. The cursor will reappear when you click somewhere in the note.
 I created this plugin to prevent Obsidian from rendering the first line of a note in raw markdown when using Live Preview.
 
@@ -8,3 +10,7 @@ I created this plugin to prevent Obsidian from rendering the first line of a not
 </p>
 
 > It basically just runs `editor.blur();` when opening a file. This means the cursor might flicker shortly when opening a file.
+
+## Installation
+
+The plugin is not yet available through the Obsidian Plugin Browser. Until it is submitted, you can use the [BRAT Plugin](https://obsidian.md/plugins?id=obsidian42-brat) to install it. Just add https://github.com/TimoBechtel/obsidian-lazy-cursor to your list of beta plugins.
