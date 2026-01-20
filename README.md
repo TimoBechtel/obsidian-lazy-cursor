@@ -1,9 +1,7 @@
 # Lazy Cursor - Obsidian Plugin
 
-> [!WARNING]
-> This plugin is not working reliably anymore in the latest version of Obsidian and currently not maintained.
-> 
-> **I recommend using the [Cursor GoAway](https://github.com/liuxingyu521/obsidian-plugin-cursor-goaway) plugin instead**, which is available in the Obsidian community plugins.
+> [!NOTE]
+> You might want to use the [Cursor GoAway](https://github.com/liuxingyu521/obsidian-plugin-cursor-goaway) plugin instead, which does the same and is available in the Obsidian community plugins.
 
 ## About
 
